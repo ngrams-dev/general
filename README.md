@@ -20,5 +20,4 @@ A tool for NLP research, second language<br>learning, and app makers.
 
 ---
 
-_NGRAMS is not open-source software but open for feedback and feature requests._ \
-_This repository is the home of Discussions, Announcements, and Issues._
+_NGRAMS is not open-source software but open for feedback and feature requests._
