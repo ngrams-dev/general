@@ -1,7 +1,7 @@
 <div align="center">
-<br>
-  <img alt="NGRAMS logo" src="https://raw.githubusercontent.com/ngrams-dev/general/main/images/logo.min.svg" width="320" />
-  <br>
+
+![NGRAMS logo](/images/logo.min.svg)
+
   <br>
   <div style="font-size:24px">Search the world's largest ngram dataset.</div>
   <br>
