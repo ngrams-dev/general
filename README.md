@@ -6,16 +6,15 @@
 
 A tool for NLP research, second language<br>learning, and app makers.
 
+<br>
+
+[ngrams.dev](https://ngrams.dev) &nbsp; &middot; &nbsp; [docs.ngrams.dev](https://docs.ngrams.dev)
 </div>
 <br>
 
 **NGRAMS** is a search engine for quick inquiries into the [Google Books Ngram Dataset v3](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) — the largest publicly available source of ngram data. The service is intended for all kinds of applications related to language processing, research, teaching, and modeling.
 
 **NGRAMS** has a REST API that can be used free of charge, for both commercial and non-commercial purposes.
-
-:point_right: https://ngrams.dev
-
-:point_right: https://github.com/ngrams-dev/general/wiki
 
 <br>
 
