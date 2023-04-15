@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="images/logo.min.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="images/logo.min.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngrams-dev/general/main/images/logo.min.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngrams-dev/general/main/images/logo.min.dark.svg">
   <img alt="NGRAMS logo">
 </picture>
 
