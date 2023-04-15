@@ -1,6 +1,10 @@
 <div align="center">
 
-![NGRAMS logo](/images/logo.min.svg)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="images/logo.min.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="images/logo.min.dark.svg">
+  <img alt="NGRAMS logo">
+</picture>
 
 ### Search the world's largest ngram dataset.
 
