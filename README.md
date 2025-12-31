@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> The NGRAMS service — i.e. the [website](https://ngrams.dev) and its [REST API](https://github.com/ngrams-dev/general/wiki/Rest-API) — will be shut down on **June 30th 2026**.
+> 
+> As a personal one-man project I no longer have the time for maintenance or even further development. Bye! 👋
+
+<br>
+
 <div align="center">
 
 <picture>
